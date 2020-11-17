@@ -1,2 +1,2 @@
 # BA780
-Project showcase
+Personal Project showcase space for Kristy
