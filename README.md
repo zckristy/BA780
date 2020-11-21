@@ -1,2 +1,3 @@
 # BA780
-Personal Project showcase space for Kristy
+MSBA BA780 Team Project repo.
+
